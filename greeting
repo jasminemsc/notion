@@ -1,6 +1,7 @@
+<!doctype html>
 <html> 
 <head>
-    <title>Greeting Message</title> 
+    <title>greeting</title> 
     <style>
 #lbl {
     font-family: monospace;
